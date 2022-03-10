@@ -1,8 +1,8 @@
-# logseq-plugin-react-boilerplate
-> logseq-plugin-react-boilerplate with vite react typescript tailwindcss antd
+# logseq-plugin-present
+> logseq-plugin-present with vite react typescript tailwindcss antd
 
-[![latest release version](https://img.shields.io/github/v/release/haydenull/logseq-plugin-react-boilerplate)](https://github.com/haydenull/logseq-plugin-react-boilerplate/releases)
-[![License](https://img.shields.io/github/license/haydenull/logseq-plugin-react-boilerplate?color=blue)](https://github.com/haydenull/logseq-plugin-react-boilerplate/blob/main/LICENSE)
+[![latest release version](https://img.shields.io/github/v/release/haydenull/logseq-plugin-present)](https://github.com/haydenull/logseq-plugin-present/releases)
+[![License](https://img.shields.io/github/license/haydenull/logseq-plugin-present?color=blue)](https://github.com/haydenull/logseq-plugin-present/blob/main/LICENSE)
 
 ## Demo
 ![demo](./demo.gif)
